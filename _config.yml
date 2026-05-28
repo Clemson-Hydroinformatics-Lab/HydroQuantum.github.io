@@ -4,9 +4,11 @@ description: >-
  HydroQuantum is a research initiative within Clemson University’s HHR Lab focused on quantum computing and quantum machine learning applications in hydrology and water resources.
   
 email: samadi@clemson.edu
-url: "https://HydroQuantum.github.io" 
+url: "https://clemson-hydroinformatics-lab.github.io"
+# "https://HydroQuantum.github.io" 
 # before deploying use url: "https://clemson-hydroinformatics-lab.github.io"
-baseurl: "" # before deploying use baseurl: "/HydroQuantum.github.io", or empty if hosted at the root of a domain
+baseurl: "/HydroQuantum.github.io" 
+# before deploying use baseurl: "/HydroQuantum.github.io", or empty if hosted at the root of a domain
 lang: en
 markdown: kramdown
 permalink: pretty
